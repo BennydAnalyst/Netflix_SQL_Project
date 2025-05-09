@@ -1,6 +1,6 @@
 # Netflix_SQL_Project
 Overview This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset.
-![]()
+![](https://github.com/BennydAnalyst/Netflix_SQL_Project/blob/main/logo.png)
 
 # Objectives
 Analyze the distribution of content types (movies vs TV shows).
